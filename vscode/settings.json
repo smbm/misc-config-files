@@ -1,5 +1,6 @@
 {
     "terminal.integrated.fontFamily": "MesloLGS NF",
     "editor.tabSize": 2,
-    "editor.renderWhitespace": "all"
+    "editor.renderWhitespace": "all",
+    "terminal.integrated.shell.linux": "/bin/zsh"
 }
